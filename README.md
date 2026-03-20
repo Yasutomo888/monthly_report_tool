@@ -73,11 +73,14 @@ python src/web_app.py
 
 http://127.0.0.1:5002/
 
-スクリーンショット
-トップ画面
-[トップ画面](assets/screenshots/top-page.png)
-レポート画面
-[レポート画面](assets/screenshots/report-page.png)
+## スクリーンショット
+
+### トップ画面
+![トップ画面](assets/screenshots/top-page.png)
+
+### レポート画面
+![レポート画面](assets/screenshots/report-page.png)
+
 入力CSV形式
 date,category,count,memo
 2026-01-01,問い合わせ対応,5,朝対応
