@@ -76,10 +76,10 @@ http://127.0.0.1:5002/
 ## スクリーンショット
 
 ### トップ画面
-![トップ画面](assets/screenshots/top-page.png)
+![トップ画面](assets/top-page.png)
 
 ### レポート画面
-![レポート画面](assets/screenshots/report-page.png)
+![レポート画面](assets/report-page.png)
 
 入力CSV形式
 date,category,count,memo
